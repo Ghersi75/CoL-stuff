@@ -62,7 +62,7 @@ if __name__ == "__main__":
         assert error.args[0] == "Only letters allowed"
 
     #Assignment 4 tests
-    file1 = "F:\Programming shit\Python Shit\\randomstuff\CoL stuff\Interpreter from scratch\program.txt"
+    file1 = "program.txt"
     assert FileFormatting(file1) == "avdqvdmavvqmiqiiifvdlfbffiiiflblblfbqviiifbfiiifwdfwwiif"
 
 toaster.show_toast("Part0", "All test cases passed", duration = 5)
