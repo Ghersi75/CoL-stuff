@@ -65,5 +65,5 @@ if __name__ == "__main__":
     #Paste file path below if testing it
     file1 = "program.txt"
     assert FileFormatting(file1) == "avdqvdmavvqmiqiiifvdlfbffiiiflblblfbqviiifbfiiifwdfwwiif"
-
-toaster.show_toast("Part0", "All test cases passed", duration = 5)
+    
+    toaster.show_toast("Part0", "All test cases passed", duration = 5)
