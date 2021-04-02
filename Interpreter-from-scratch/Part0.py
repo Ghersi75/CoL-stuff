@@ -62,6 +62,7 @@ if __name__ == "__main__":
         assert error.args[0] == "Only letters allowed"
 
     #Assignment 4 tests
+    #Paste file path below if testing it
     file1 = "program.txt"
     assert FileFormatting(file1) == "avdqvdmavvqmiqiiifvdlfbffiiiflblblfbqviiifbfiiifwdfwwiif"
 
